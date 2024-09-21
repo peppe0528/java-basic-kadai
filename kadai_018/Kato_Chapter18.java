@@ -1,4 +1,4 @@
-package kadai_018;
+package kadai_018.kadai_018;
 
 abstract public class Kato_Chapter18 {
 

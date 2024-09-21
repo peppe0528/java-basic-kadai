@@ -1,4 +1,4 @@
-package kadai_018;
+package kadai_018.kadai_018;
 
 public class KatoExec_Chapter18 {
 	public static void main(String[] args ) {
